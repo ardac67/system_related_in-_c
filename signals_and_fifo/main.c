@@ -8,7 +8,7 @@
 #include <signal.h>
 #include <time.h>
 #include <sys/wait.h>
-
+//zart
 
 #define FIFO_PERMS (S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH )
 #define FIFO_NAME1 "fifo_1"
